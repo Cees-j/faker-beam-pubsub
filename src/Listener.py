@@ -6,13 +6,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 PROJECT_ID = os.getenv('PROJECT_ID')
-TOPIC_NAME = os.getenv('TOPIC_NAME')
 SUB_NAME = os.getenv('SUB_NAME')
 credentials_path = os.getenv('GOOGLE_APPLICATION_CREDENTIALS')
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = credentials_path
 
 
-publisher = pubsub_v1.PublisherClient()
+
 subscriber = pubsub_v1.SubscriberClient()
 
 def callback(message):
@@ -37,4 +36,5 @@ def start_message_listener(project_id, subscription_name, callback, subscriber=s
 
     return "Message listener stopped."
 
-start_message_listener(PROJECT_ID, SUB_NAME, callback=callback, subscriber=subscriber )
+start_message_listener(PROJECT_ID, SUB_NAME, callback=callback, subscriber=subscriber)
+

@@ -14,11 +14,6 @@ publisher = pubsub_v1.PublisherClient()
 subscriber = pubsub_v1.SubscriberClient()
 
 
-
-
-
-
-
 def create_pubsub_topic(project_id, topic_name):
     """Create a new Pub/Sub topic in the specified GCP project"""
     publisher = pubsub_v1.PublisherClient()
