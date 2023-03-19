@@ -1,0 +1,688 @@
+key,cells
+b'00752ffc-da9b-48cd-a911-5f60504bd988',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237474033000, 'value': b'61'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237474033000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237474033000, 'value': b'1976-08-01T12:43:55'}]"
+b'013f7024-39d5-4eec-887c-050e220a75b9',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099314000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099314000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099314000, 'value': b'2023-03-19T15:18:09.026690'}]"
+b'025a620b-fef1-47b0-ad1c-eed62cfc94b5',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238810851000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238810851000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238810851000, 'value': b'2023-03-19T15:13:30.145010'}]"
+b'04093549-327f-4feb-a4fe-9ce6b5e99f77',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091430000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091430000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091430000, 'value': b'2023-03-19T15:18:09.734158'}]"
+b'04bc90d0-0929-4f4e-bf0e-bdfe33a640e4',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238824277000, 'value': b'58'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238824277000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238824277000, 'value': b'2023-03-19T15:13:38.607728'}]"
+b'07df6975-25eb-4293-9cc6-02873314065f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238805841000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238805841000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238805841000, 'value': b'2023-03-19T15:13:24.123842'}]"
+b'0a397021-62cb-4026-bf86-c123eb1b392c',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239094328000, 'value': b'52'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239094328000, 'value': b'25'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239094328000, 'value': b'2023-03-19T15:18:13.684271'}]"
+b'0b2950a0-e872-452d-9e53-b024fa834701',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238820121000, 'value': b'47'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238820121000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238820121000, 'value': b'2023-03-19T15:13:38.402139'}]"
+b'0d6c3790-e53a-4dcf-9396-fff4daac8bad',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098872000, 'value': b'51'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098872000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098872000, 'value': b'2023-03-19T15:18:08.380071'}]"
+b'0e7a8de5-f172-4d4e-99bd-6299fe5bc028',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087260000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087260000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087260000, 'value': b'2023-03-19T15:18:05.226328'}]"
+b'0fab7e67-850f-4efd-b4b2-22a4858692c8',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084368000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084368000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084368000, 'value': b'2023-03-19T15:18:03.002346'}]"
+b'10f60be7-c986-405a-bd1e-9ad4e416286b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237458093000, 'value': b'47'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237458093000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237458093000, 'value': b'2020-10-31T14:32:45'}]"
+b'12bba291-56a9-4351-80be-60e61a5d0a88',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084951000, 'value': b'58'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084951000, 'value': b'22'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084951000, 'value': b'2023-03-19T15:18:03.663851'}]"
+b'13e27977-d106-4790-ad02-4214ae2997f0',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090907000, 'value': b'46'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090907000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090907000, 'value': b'2023-03-19T15:18:09.199581'}]"
+b'1479cb07-59b3-4fab-8bb3-1f9f7a0e0d03',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821230000, 'value': b'48'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821230000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821230000, 'value': b'2023-03-19T15:13:39.671254'}]"
+b'15937343-510e-4d98-83a5-30c6c756ea28',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098454000, 'value': b'48'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098454000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098454000, 'value': b'2023-03-19T15:18:07.993809'}]"
+b'16c0963b-e870-4975-a1b2-d7c453dd82d6',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821230000, 'value': b'49'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821230000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821230000, 'value': b'2023-03-19T15:13:39.315817'}]"
+b'17b209fd-1e16-439c-af76-f62f69051850',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081306000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081306000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081306000, 'value': b'2023-03-19T15:18:00.803563'}]"
+b'18500747-3e51-40e3-bb05-0df12883256d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239101910000, 'value': b'46'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239101910000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239101910000, 'value': b'2023-03-19T15:18:12.088105'}]"
+b'18d36730-0a7b-4ca8-8157-d518fe3763cd',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238824277000, 'value': b'53'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238824277000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238824277000, 'value': b'2023-03-19T15:13:38.024670'}]"
+b'1a969b5b-8467-4104-9741-faf3ad6b66c1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239097608000, 'value': b'58'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239097608000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239097608000, 'value': b'2023-03-19T15:18:12.292075'}]"
+b'1c2b1227-f301-40d1-983b-4c2f4acfb579',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679235779738000, 'value': b'44'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679235779738000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679235779738000, 'value': b'1980-08-15T19:17:57'}]"
+b'1cfddf68-9c8c-403b-a09c-2659e7df2b14',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238795512000, 'value': b'55'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238795512000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238795512000, 'value': b'2023-03-19T15:13:14.963721'}]"
+b'1e06a9e0-4aea-45a0-9240-3b3a07f9ee00',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238819626000, 'value': b'58'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238819626000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238819626000, 'value': b'2023-03-19T15:13:37.280161'}]"
+b'1e83e63f-70cf-4255-83ac-0d96a7c1afe9',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091953000, 'value': b'56'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091953000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091953000, 'value': b'2023-03-19T15:18:11.108607'}]"
+b'1ed45152-a5fa-4515-9ff9-6891be90740b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239092547000, 'value': b'70'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239092547000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239092547000, 'value': b'2023-03-19T15:18:11.251488'}]"
+b'1f78c33f-86dc-4efc-891b-d9c09f6075fb',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239106482000, 'value': b'53'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239106482000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239106482000, 'value': b'2023-03-19T15:18:13.319125'}]"
+b'21c365a5-9154-4397-a9bf-bec764e17297',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239100418000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239100418000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239100418000, 'value': b'2023-03-19T15:18:11.176679'}]"
+b'235187f1-0407-4a75-afcc-2cb9a3e14f0a',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091430000, 'value': b'50'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091430000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091430000, 'value': b'2023-03-19T15:18:09.768964'}]"
+b'23fcf5ca-3949-4773-915b-1aaf13942dd0',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238802676000, 'value': b'62'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238802676000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238802676000, 'value': b'2023-03-19T15:13:21.733522'}]"
+b'2471e590-1daa-4666-9f5a-8ab29fb88e27',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238800335000, 'value': b'66'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238800335000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238800335000, 'value': b'2023-03-19T15:13:19.869860'}]"
+b'25875db3-6fe9-4a8f-8087-f31d5c153463',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239092547000, 'value': b'47'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239092547000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239092547000, 'value': b'2023-03-19T15:18:11.353907'}]"
+b'266829ef-13bc-4efb-be36-e952cd626aeb',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679234682414000, 'value': b'\x00\x00\x00\x00\x00\x00\x00\x1e'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679234682414000, 'value': b'\x00\x00\x00\x00\x00\x00\x00#'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679234682414000, 'value': b'2012-04-07T10:48:44'}]"
+b'29b07e12-0125-46f0-bef0-3395a6a0a5eb',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091430000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091430000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091430000, 'value': b'2023-03-19T15:18:10.148004'}]"
+b'2b572e2b-9c28-415e-955f-e0e605495421',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239086653000, 'value': b'59'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239086653000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239086653000, 'value': b'2023-03-19T15:18:04.742554'}]"
+b'2c9449b5-7955-422b-a5e7-b94f016cdcbb',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239103448000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239103448000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239103448000, 'value': b'2023-03-19T15:18:12.781863'}]"
+b'2f7ea83f-8e18-4b17-9782-fe9c17afa492',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237458093000, 'value': b'57'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237458093000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237458093000, 'value': b'2003-09-16T04:49:44'}]"
+b'30f40136-4898-4d73-9531-d8136a360b78',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237474033000, 'value': b'55'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237474033000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237474033000, 'value': b'1988-11-21T17:03:46'}]"
+b'328b8b1e-1469-4d10-acff-587d868c3c6f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679235229616000, 'value': b'\x00\x00\x00\x00\x00\x00\x00('}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679235229616000, 'value': b'\x00\x00\x00\x00\x00\x00\x00%'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679235229616000, 'value': b'2014-01-12T10:35:57'}]"
+b'33794ed6-c142-4311-a3b0-1115c0a5aeb8',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087260000, 'value': b'66'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087260000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087260000, 'value': b'2023-03-19T15:18:05.330672'}]"
+b'36921fe3-0b55-4999-a234-2d40e9d5ad99',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239103448000, 'value': b'65'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239103448000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239103448000, 'value': b'2023-03-19T15:18:12.852020'}]"
+b'37dc4041-d1d5-4cd4-a662-76aa89f282f6',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237466307000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237466307000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237466307000, 'value': b'2001-04-23T16:13:01'}]"
+b'381578e9-4aa2-4787-a34d-ce98a159447f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081845000, 'value': b'67'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081845000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081845000, 'value': b'2023-03-19T15:18:01.201139'}]"
+b'392cea29-c5cb-4be6-bec0-8d576fe4937f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237471803000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237471803000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237471803000, 'value': b'1986-07-09T13:26:57'}]"
+b'39f25555-d8f6-4492-9758-0adcf6e53c31',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238809249000, 'value': b'55'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238809249000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238809249000, 'value': b'2023-03-19T15:13:28.745928'}]"
+b'39fed60e-c1d3-4e39-a191-a5d3a442bcc1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238811392000, 'value': b'51'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238811392000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238811392000, 'value': b'2023-03-19T15:13:31.145926'}]"
+b'3a6e9d45-82ff-49d5-9ce4-49ffd5d899ed',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081845000, 'value': b'62'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081845000, 'value': b'25'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081845000, 'value': b'2023-03-19T15:18:01.254766'}]"
+b'3b759c7a-e125-442d-b3aa-baa38944bc78',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239080796000, 'value': b'45'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239080796000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239080796000, 'value': b'2023-03-19T15:18:00.523350'}]"
+b'3c9646d3-a9cd-40cb-83e0-8dde7170600b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087878000, 'value': b'61'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087878000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087878000, 'value': b'2023-03-19T15:18:06.084309'}]"
+b'3d42cb98-7003-42c4-ae7d-4676c58f84c4',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238820121000, 'value': b'51'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238820121000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238820121000, 'value': b'2023-03-19T15:13:38.133236'}]"
+b'3e84a2a4-1444-42b5-9e63-1c160cf3250d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821230000, 'value': b'48'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821230000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821230000, 'value': b'2023-03-19T15:13:39.607358'}]"
+b'3f7c67dd-028d-46cf-9150-30a167832b50',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239083859000, 'value': b'70'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239083859000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239083859000, 'value': b'2023-03-19T15:18:02.728386'}]"
+b'4063d750-98bf-4046-b8cb-83547a581a97',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093211000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093211000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093211000, 'value': b'2023-03-19T15:18:12.922825'}]"
+b'41343bc0-dbd8-41e3-bdbe-89fb382ebaa2',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087260000, 'value': b'53'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087260000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087260000, 'value': b'2023-03-19T15:18:05.393121'}]"
+b'417d0e8a-37bd-4d3d-8d06-fbc8c450c5dd',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821230000, 'value': b'56'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821230000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821230000, 'value': b'2023-03-19T15:13:39.363102'}]"
+b'4246979b-2e3c-48c3-aab9-dd9ba3162970',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238819626000, 'value': b'59'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238819626000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238819626000, 'value': b'2023-03-19T15:13:37.447309'}]"
+b'42ec7d32-e9c5-41cc-be2d-a920e6cf1b7c',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239092547000, 'value': b'67'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239092547000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239092547000, 'value': b'2023-03-19T15:18:11.860586'}]"
+b'43b0e3a9-d2f4-4e27-aed5-bdc182c3e7f0',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098017000, 'value': b'47'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098017000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098017000, 'value': b'2023-03-19T15:18:06.574087'}]"
+b'4521ed20-1fd9-4384-8cad-15ab181546ae',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098017000, 'value': b'65'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098017000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098017000, 'value': b'2023-03-19T15:18:05.783838'}]"
+b'470e3614-09bf-4f4f-aa7b-27d16a6cd416',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239103448000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239103448000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239103448000, 'value': b'2023-03-19T15:18:12.744775'}]"
+b'4747a6d4-d5d8-4b12-ba50-eb83fce11de3',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098872000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098872000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098872000, 'value': b'2023-03-19T15:18:08.719266'}]"
+b'482dc892-91ef-4f73-9796-14904fcf78d4',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098454000, 'value': b'44'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098454000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098454000, 'value': b'2023-03-19T15:18:07.215522'}]"
+b'48df1a8e-adb5-48ff-9f90-3405c4930514',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238819626000, 'value': b'48'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238819626000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238819626000, 'value': b'2023-03-19T15:13:37.702547'}]"
+b'4a0440d8-eaa3-45c7-bbbb-98bee7ef0a1a',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239083859000, 'value': b'59'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239083859000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239083859000, 'value': b'2023-03-19T15:18:02.676979'}]"
+b'4b054653-0940-4ce2-9800-b58602326216',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081306000, 'value': b'55'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081306000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081306000, 'value': b'2023-03-19T15:18:00.743059'}]"
+b'4b37bf03-0523-4492-b083-52a0e59d0899',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084368000, 'value': b'64'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084368000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084368000, 'value': b'2023-03-19T15:18:03.311160'}]"
+b'4b564a51-ff6a-4449-9100-a0c13f0da172',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821230000, 'value': b'56'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821230000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821230000, 'value': b'2023-03-19T15:13:39.771641'}]"
+b'4ca7eca3-0bad-4fa8-b38d-17feca0130dd',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099314000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099314000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099314000, 'value': b'2023-03-19T15:18:09.696180'}]"
+b'4f013536-c200-452c-87a3-35672b3d3ec2',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099314000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099314000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099314000, 'value': b'2023-03-19T15:18:09.264537'}]"
+b'4fa743b2-e864-4650-a6c6-be870de39b6e',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239092547000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239092547000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239092547000, 'value': b'2023-03-19T15:18:11.503394'}]"
+b'520171d9-0fa0-45f4-9ba6-e169e2d8bc8e',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679235779738000, 'value': b'54'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679235779738000, 'value': b'22'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679235779738000, 'value': b'2003-02-17T11:38:56'}]"
+b'52bd7f07-0365-4a3b-afb1-228cd9f3a631',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237460336000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237460336000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237460336000, 'value': b'1998-07-20T23:01:15'}]"
+b'552e7dcb-df25-4d70-a14d-161a13f49aff',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239105913000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239105913000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239105913000, 'value': b'2023-03-19T15:18:13.856631'}]"
+b'564f7d61-3d92-4dc5-afeb-a1898c2f2b1a',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090907000, 'value': b'65'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090907000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090907000, 'value': b'2023-03-19T15:18:09.231254'}]"
+b'56e563f1-f624-488f-86fd-8792cec64ced',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239086653000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239086653000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239086653000, 'value': b'2023-03-19T15:18:04.777235'}]"
+b'580e2e3c-76e9-489a-b608-d5fa53a155c2',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084368000, 'value': b'62'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084368000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084368000, 'value': b'2023-03-19T15:18:03.412406'}]"
+b'586f429b-2e77-4eca-8cb7-f9e1b992dd32',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093814000, 'value': b'67'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093814000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093814000, 'value': b'2023-03-19T15:18:13.397478'}]"
+b'5a34aad1-0eb6-45fd-b7e1-ea1b4e883537',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239106482000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239106482000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239106482000, 'value': b'2023-03-19T15:18:13.583106'}]"
+b'5b287a72-392c-418e-b1fe-a9cbd17564d1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089365000, 'value': b'54'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089365000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089365000, 'value': b'2023-03-19T15:18:06.783061'}]"
+b'5b96c567-71e7-450c-9070-c81be98af597',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093814000, 'value': b'66'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093814000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093814000, 'value': b'2023-03-19T15:18:13.554962'}]"
+b'5baecb72-9191-425e-ba31-514066031c1b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238820599000, 'value': b'52'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238820599000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238820599000, 'value': b'2023-03-19T15:13:39.091972'}]"
+b'5c7cebb2-904d-4cec-aa5a-19f1c74923af',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237464195000, 'value': b'69'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237464195000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237464195000, 'value': b'1985-12-29T22:38:18'}]"
+b'5df7b257-8eef-44ff-b07f-a8609feb6ab4',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089365000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089365000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089365000, 'value': b'2023-03-19T15:18:06.691040'}]"
+b'5e7013aa-d426-4eb8-a362-1fed415e2567',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239101910000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239101910000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239101910000, 'value': b'2023-03-19T15:18:11.473059'}]"
+b'5ede65e1-d1c6-4a15-98b1-9d66e4ed5bbe',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238817303000, 'value': b'57'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238817303000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238817303000, 'value': b'2023-03-19T15:13:36.622781'}]"
+b'601320f9-a491-4b48-afd9-426b5bc6dc9c',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090487000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090487000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090487000, 'value': b'2023-03-19T15:18:08.119951'}]"
+b'60444092-0d92-4105-a35c-832e1be9248f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091953000, 'value': b'42'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091953000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091953000, 'value': b'2023-03-19T15:18:10.448832'}]"
+b'6191a3f3-84bb-475a-a805-0d9a386f34aa',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085536000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085536000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085536000, 'value': b'2023-03-19T15:18:04.044311'}]"
+b'62d7b39d-bc92-4b19-8218-7c6746f8cac1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239106482000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239106482000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239106482000, 'value': b'2023-03-19T15:18:13.148657'}]"
+b'63f8ea70-260d-43e9-9933-718a3b5e6fbe',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679234682414000, 'value': b'\x00\x00\x00\x00\x00\x00\x00('}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679234682414000, 'value': b'\x00\x00\x00\x00\x00\x00\x00\x16'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679234682414000, 'value': b'1990-02-17T23:56:28'}]"
+b'65a0f19e-964a-4cd7-8f02-e3b491b7b179',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099314000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099314000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099314000, 'value': b'2023-03-19T15:18:08.991525'}]"
+b'65cbb41e-2455-4071-b874-b47ac7ff7369',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238810851000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238810851000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238810851000, 'value': b'2023-03-19T15:13:30.347280'}]"
+b'67fd5735-6916-47ee-9db0-2df0a3820438',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237467057000, 'value': b'54'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237467057000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237467057000, 'value': b'1972-03-08T12:43:15'}]"
+b'6a20fa47-ed93-4ec4-89b2-1dbb9d3f575e',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238807633000, 'value': b'54'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238807633000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238807633000, 'value': b'2023-03-19T15:13:26.624808'}]"
+b'6a83ce34-af2f-474d-9b05-60c236e274bf',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098454000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098454000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098454000, 'value': b'2023-03-19T15:18:07.928818'}]"
+b'6b4ad9df-c50b-4907-97b6-251942cb5458',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238824277000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238824277000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238824277000, 'value': b'2023-03-19T15:13:38.454067'}]"
+b'6bf41dc7-3b9c-4964-92d4-d66a525c94e6',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087260000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087260000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087260000, 'value': b'2023-03-19T15:18:05.188213'}]"
+b'6c8d5bfb-f7bd-4da2-b552-262b50aa0881',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237364091000, 'value': b'43'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237364091000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237364091000, 'value': b'1993-02-19T15:22:01'}]"
+b'6cc26f74-7c2c-40fd-8f6a-c3c15a866366',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081306000, 'value': b'52'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081306000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081306000, 'value': b'2023-03-19T15:18:01.039201'}]"
+b'6d708d37-dfdc-4866-8a98-460130b86dec',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237308130000, 'value': b'53'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237308130000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237308130000, 'value': b'1992-02-02T14:47:03'}]"
+b'7024989f-0068-4240-8d6e-0769a4e3e30d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090487000, 'value': b'70'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090487000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090487000, 'value': b'2023-03-19T15:18:08.203548'}]"
+b'716f5321-00c6-4ba0-b6bb-b4f6f3236e19',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237466307000, 'value': b'66'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237466307000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237466307000, 'value': b'1995-06-25T23:11:01'}]"
+b'71e21b44-2f19-42da-ba2a-b1012e999c61',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238824277000, 'value': b'59'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238824277000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238824277000, 'value': b'2023-03-19T15:13:37.173996'}]"
+b'7454fb89-4c4e-48fc-b24a-3b7a50b44c25',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085990000, 'value': b'67'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085990000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085990000, 'value': b'2023-03-19T15:18:04.673960'}]"
+b'75789536-cd56-4f19-9534-572966204c25',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238804265000, 'value': b'53'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238804265000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238804265000, 'value': b'2023-03-19T15:13:23.197292'}]"
+b'75e2854d-4178-4e74-a0b6-beac6ed65a2c',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084368000, 'value': b'43'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084368000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084368000, 'value': b'2023-03-19T15:18:03.074923'}]"
+b'78536b3d-ad75-4f19-b4c8-abe06427680c',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239080796000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239080796000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239080796000, 'value': b'2023-03-19T15:18:00.218092'}]"
+b'7a29f864-8940-438a-a4f1-4431e9cde093',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238798080000, 'value': b'43'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238798080000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238798080000, 'value': b'2023-03-19T15:13:15.053023'}]"
+b'7adce1f7-b6c1-4e7b-99da-bf3cda760540',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821786000, 'value': b'42'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821786000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821786000, 'value': b'2023-03-19T15:13:39.837865'}]"
+b'7b946b5a-7a14-4a6f-a3e6-d886c8d4d53f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237464195000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237464195000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237464195000, 'value': b'2005-12-10T13:26:26'}]"
+b'7babe3e8-6722-4340-99c6-1bf52f829c4d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084951000, 'value': b'42'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084951000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084951000, 'value': b'2023-03-19T15:18:03.615034'}]"
+b'7c7ee97d-6d19-4f36-9cd9-d86ef6006680',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237454721000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237454721000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237454721000, 'value': b'2007-05-29T05:35:53'}]"
+b'7d738791-2f22-478b-9f5d-d1cff2125ea1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239092547000, 'value': b'45'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239092547000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239092547000, 'value': b'2023-03-19T15:18:11.676121'}]"
+b'7eb5b2bf-6be5-4716-b1d9-98b53ef8b4c6',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239101910000, 'value': b'60'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239101910000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239101910000, 'value': b'2023-03-19T15:18:11.823966'}]"
+b'7f782215-8813-40c5-9865-3d37b2896187',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238802676000, 'value': b'61'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238802676000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238802676000, 'value': b'2023-03-19T15:13:20.719295'}]"
+b'818cbbf3-29eb-4829-b3d9-a2d2b8f04fb6',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237309732000, 'value': b'55'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237309732000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237309732000, 'value': b'2022-05-23T01:12:59'}]"
+b'81dcbdd0-9c7d-4400-adab-702362e2dbab',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089365000, 'value': b'62'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089365000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089365000, 'value': b'2023-03-19T15:18:06.476405'}]"
+b'8245a011-b69a-41d4-bb9c-23aee85150cb',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238810851000, 'value': b'50'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238810851000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238810851000, 'value': b'2023-03-19T15:13:29.356969'}]"
+b'82ffd660-278f-4bc4-938e-e169c67fa4ae',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093814000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093814000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093814000, 'value': b'2023-03-19T15:18:13.203877'}]"
+b'8465f339-5fde-46c3-8861-3e09f735d449',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087878000, 'value': b'60'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087878000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087878000, 'value': b'2023-03-19T15:18:06.046792'}]"
+b'8527fc82-9619-47ec-9b9a-0a36030135e2',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239103448000, 'value': b'52'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239103448000, 'value': b'25'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239103448000, 'value': b'2023-03-19T15:18:12.494467'}]"
+b'85462954-42bd-49b4-92cc-d0f3136a2da8',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238809249000, 'value': b'57'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238809249000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238809249000, 'value': b'2023-03-19T15:13:27.870605'}]"
+b'85ce6049-b126-418a-b82e-d4e09ee584db',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679235231432000, 'value': b'\x00\x00\x00\x00\x00\x00\x008'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679235231432000, 'value': b'\x00\x00\x00\x00\x00\x00\x00\x17'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679235231432000, 'value': b'1970-02-12T11:17:31'}]"
+b'8713a480-fe09-4b0b-8ef3-86cbf393524c',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098017000, 'value': b'55'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098017000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098017000, 'value': b'2023-03-19T15:18:06.877256'}]"
+b'8822dfc5-4117-471d-937f-c731fff550bf',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091953000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091953000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091953000, 'value': b'2023-03-19T15:18:10.682666'}]"
+b'89189c5d-8b5a-4156-9c7e-bf102fae9434',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087878000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087878000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087878000, 'value': b'2023-03-19T15:18:05.954390'}]"
+b'8a5017f8-a154-4a9f-9fca-3db1ba74c180',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821230000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821230000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821230000, 'value': b'2023-03-19T15:13:39.705904'}]"
+b'8ae4980a-48e6-43f0-bde3-18828bdc9c05',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089365000, 'value': b'59'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089365000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089365000, 'value': b'2023-03-19T15:18:07.029191'}]"
+b'8c452e6f-7b00-4f56-83be-ccad14d615c1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099842000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099842000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099842000, 'value': b'2023-03-19T15:18:10.484359'}]"
+b'8d208b39-7c37-4944-837e-ec3aa4ef65cc',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087260000, 'value': b'42'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087260000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087260000, 'value': b'2023-03-19T15:18:05.634016'}]"
+b'8e28bc78-c19b-4f96-9032-cb0b666d5a18',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093211000, 'value': b'47'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093211000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093211000, 'value': b'2023-03-19T15:18:12.188568'}]"
+b'8fa2a3e5-8348-4260-ad2d-fcc52ae287d0',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089946000, 'value': b'51'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089946000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089946000, 'value': b'2023-03-19T15:18:07.320534'}]"
+b'912b793a-bdfe-47ab-ba39-ab7066f31519',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089946000, 'value': b'48'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089946000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089946000, 'value': b'2023-03-19T15:18:07.668131'}]"
+b'91862838-9bc4-4332-9a77-b08abe17d4ec',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081845000, 'value': b'57'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081845000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081845000, 'value': b'2023-03-19T15:18:01.453376'}]"
+b'939eeddb-7260-452c-af40-8d0a14bc78e5',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089946000, 'value': b'62'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089946000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089946000, 'value': b'2023-03-19T15:18:07.272627'}]"
+b'954924a4-dc63-4d64-8ea5-9effb5f6e35f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238802676000, 'value': b'50'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238802676000, 'value': b'25'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238802676000, 'value': b'2023-03-19T15:13:21.675659'}]"
+b'967a2574-16f5-4123-9c86-3051f433cf65',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238812603000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238812603000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238812603000, 'value': b'2023-03-19T15:13:31.223101'}]"
+b'96ba8643-c4f6-43f5-9b32-fab0909c7fc4',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237474033000, 'value': b'43'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237474033000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237474033000, 'value': b'2011-09-22T18:51:12'}]"
+b'99426ee6-08ae-498d-b6b4-6b6a1158d1c5',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679235856809000, 'value': b'54'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679235856809000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679235856809000, 'value': b'1982-02-23T18:15:49'}]"
+b'9a3b31a5-6f0a-44ed-9579-451f80cfa3e5',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239082345000, 'value': b'69'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239082345000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239082345000, 'value': b'2023-03-19T15:18:02.134752'}]"
+b'9b29d81a-c97a-4f61-9d46-a5f6889807d5',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239103448000, 'value': b'56'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239103448000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239103448000, 'value': b'2023-03-19T15:18:12.816984'}]"
+b'9c1bec02-e035-4357-aae4-6a16da9811d5',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085536000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085536000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085536000, 'value': b'2023-03-19T15:18:04.163728'}]"
+b'9cbd1a81-4ca9-412c-b946-61ee356f4ce1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084368000, 'value': b'43'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084368000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084368000, 'value': b'2023-03-19T15:18:03.263646'}]"
+b'9e919137-d77c-4955-b2c2-5cb8fd8e2c88',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087878000, 'value': b'57'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087878000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087878000, 'value': b'2023-03-19T15:18:05.923551'}]"
+b'9f7f4d95-7d43-44bf-9be3-f00f501c7326',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239106482000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239106482000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239106482000, 'value': b'2023-03-19T15:18:13.497114'}]"
+b'a0831c0c-c5b7-4f8c-b4d0-bea903a02f54',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081845000, 'value': b'51'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081845000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081845000, 'value': b'2023-03-19T15:18:01.602414'}]"
+b'a09451f4-bb45-4fa6-b348-c07059214196',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239103448000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239103448000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239103448000, 'value': b'2023-03-19T15:18:13.073278'}]"
+b'a24e6a51-5bdf-449c-bca8-c28b07d55261',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237362408000, 'value': b'47'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237362408000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237362408000, 'value': b'2003-12-01T00:41:21'}]"
+b'a3b6f673-242c-47dd-a0f4-908ee7474899',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099842000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099842000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099842000, 'value': b'2023-03-19T15:18:10.313764'}]"
+b'a6a4b1ee-62b0-4f49-a90b-89f78f4cf4f4',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239100418000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239100418000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239100418000, 'value': b'2023-03-19T15:18:11.382888'}]"
+b'a79831f1-e81f-47b9-9b52-eb9ff4ec17d9',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099314000, 'value': b'49'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099314000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099314000, 'value': b'2023-03-19T15:18:09.633251'}]"
+b'a9e69a0f-7e02-4d8c-9d76-8125f25f6c37',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091430000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091430000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091430000, 'value': b'2023-03-19T15:18:10.384158'}]"
+b'aaeeb15e-6718-481e-9a77-462e7822218a',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238802676000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238802676000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238802676000, 'value': b'2023-03-19T15:13:21.544043'}]"
+b'aee551cd-099b-4197-ad84-3aba6ba23f3f',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081845000, 'value': b'49'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081845000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081845000, 'value': b'2023-03-19T15:18:01.555028'}]"
+b'b0742d90-625d-4138-aa41-5b4920050406',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093211000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093211000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093211000, 'value': b'2023-03-19T15:18:12.158136'}]"
+b'b2482185-07ad-4a87-bf31-a31b5d742c78',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237460336000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237460336000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237460336000, 'value': b'2020-08-15T14:28:55'}]"
+b'b4ad2b60-86d0-4979-906f-28ea15ed5710',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085990000, 'value': b'59'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085990000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085990000, 'value': b'2023-03-19T15:18:04.632866'}]"
+b'b5164a07-8ec0-460f-8fb2-69e77c910525',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098454000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098454000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098454000, 'value': b'2023-03-19T15:18:07.460430'}]"
+b'b67b7fc1-dc8a-4d6a-8428-338e008b400a',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087260000, 'value': b'61'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087260000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087260000, 'value': b'2023-03-19T15:18:05.361175'}]"
+b'b849782e-3ab2-4ad6-a0df-1b6b044a4384',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098017000, 'value': b'64'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098017000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098017000, 'value': b'2023-03-19T15:18:06.419006'}]"
+b'b9b98cae-16b2-49f3-932c-225d1ede4aad',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237462016000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237462016000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237462016000, 'value': b'1999-12-20T11:46:46'}]"
+b'bad312ac-81e3-47e3-9b86-77e3fc147718',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084368000, 'value': b'65'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084368000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084368000, 'value': b'2023-03-19T15:18:02.940574'}]"
+b'bd326b68-ab3d-4ed1-97ce-26da0d956395',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084951000, 'value': b'69'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084951000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084951000, 'value': b'2023-03-19T15:18:03.567437'}]"
+b'be2584d6-f423-4376-8f63-2f0ab4103019',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098454000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098454000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098454000, 'value': b'2023-03-19T15:18:08.243713'}]"
+b'bf97096a-66ec-4339-b0bd-03ac641234fb',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093211000, 'value': b'49'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093211000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093211000, 'value': b'2023-03-19T15:18:12.252713'}]"
+b'c06afbfe-fe6d-49a0-962d-888df1d49102',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237474033000, 'value': b'49'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237474033000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237474033000, 'value': b'1989-07-30T21:20:05'}]"
+b'c23d9cbc-9c4a-4d05-8257-b353375a8269',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085536000, 'value': b'44'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085536000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085536000, 'value': b'2023-03-19T15:18:03.926276'}]"
+b'c291f88b-4543-4bd1-80e0-93e330751cfa',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239083859000, 'value': b'66'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239083859000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239083859000, 'value': b'2023-03-19T15:18:02.526027'}]"
+b'c2f7b7fe-2bb5-4e35-ad32-f43497edd173',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090907000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090907000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090907000, 'value': b'2023-03-19T15:18:09.453805'}]"
+b'c3bc1abb-0a4d-42d5-8af9-f0daf4aa6187',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098454000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098454000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098454000, 'value': b'2023-03-19T15:18:07.525316'}]"
+b'c404b136-bc3d-4756-bbcb-35ff408bbcfe',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239082345000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239082345000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239082345000, 'value': b'2023-03-19T15:18:01.705521'}]"
+b'c46ee15d-e7cb-46a4-9f70-d7f33df30b91',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237468730000, 'value': b'58'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237468730000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237468730000, 'value': b'2001-12-23T22:44:33'}]"
+b'c4e66d89-549b-462c-ab86-b92b53036a55',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239098872000, 'value': b'70'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239098872000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239098872000, 'value': b'2023-03-19T15:18:08.503412'}]"
+b'c5d5a076-3067-475d-9c08-1c5f25a749e1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081845000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081845000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081845000, 'value': b'2023-03-19T15:18:01.352775'}]"
+b'c612eacb-25a3-473b-a548-49b5cd0d32ae',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239100418000, 'value': b'47'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239100418000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239100418000, 'value': b'2023-03-19T15:18:11.436442'}]"
+b'c68b47a9-c3d3-4e1f-8e6d-86b3f5db6368',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238805841000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238805841000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238805841000, 'value': b'2023-03-19T15:13:24.175794'}]"
+b'c753b43b-344b-407c-8412-9136f663ba41',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081306000, 'value': b'41'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081306000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081306000, 'value': b'2023-03-19T15:18:00.633574'}]"
+b'c7896f94-287d-4ae4-ae6d-a07131df2ce3',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238795512000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238795512000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238795512000, 'value': b'2023-03-19T15:13:14.709459'}]"
+b'c80e0230-fa29-4142-a928-ef3f52eb2ec7',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237460336000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237460336000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237460336000, 'value': b'2006-11-26T02:58:13'}]"
+b'cad2a689-2618-42f6-87ca-73852f2a9914',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093211000, 'value': b'45'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093211000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093211000, 'value': b'2023-03-19T15:18:12.614610'}]"
+b'cb8d8f17-eba5-43af-8020-5cb862b05320',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099314000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099314000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099314000, 'value': b'2023-03-19T15:18:09.373664'}]"
+b'cc0f46ba-f644-4125-bafc-a09f7185f7a7',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237464195000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237464195000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237464195000, 'value': b'2017-04-26T00:25:44'}]"
+b'cc6609fb-87f3-4c5c-9530-988ef2deb0eb',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238820121000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238820121000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238820121000, 'value': b'2023-03-19T15:13:38.291527'}]"
+b'ce0cae7f-9125-46ac-93ac-25c14e0f15b0',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239082345000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239082345000, 'value': b'25'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239082345000, 'value': b'2023-03-19T15:18:01.978320'}]"
+b'cfc1f18c-50d6-40f8-b389-332085af5957',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090487000, 'value': b'66'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090487000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090487000, 'value': b'2023-03-19T15:18:08.825926'}]"
+b'd0842547-3f2e-4fd8-8848-a0a3212e6d62',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239094328000, 'value': b'56'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239094328000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239094328000, 'value': b'2023-03-19T15:18:13.911318'}]"
+b'd1667157-988d-4007-ad22-a826e1f68977',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084368000, 'value': b'50'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084368000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084368000, 'value': b'2023-03-19T15:18:02.810363'}]"
+b'd2a0e1c6-438d-486d-9659-5231f747d486',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237474033000, 'value': b'53'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237474033000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237474033000, 'value': b'2001-07-04T23:35:48'}]"
+b'd31cd34a-3438-40d8-bcb5-6c0eafe1da5e',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090487000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090487000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090487000, 'value': b'2023-03-19T15:18:08.854890'}]"
+b'd4ac4d34-b12e-46d8-8709-7d40fb1af53b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238821230000, 'value': b'65'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238821230000, 'value': b'21'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238821230000, 'value': b'2023-03-19T15:13:39.409801'}]"
+b'd67276e1-004a-4091-b918-fa0359a190cc',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085990000, 'value': b'55'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085990000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085990000, 'value': b'2023-03-19T15:18:04.554218'}]"
+b'd733431f-490d-4f45-95e9-02229b65dca1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238819626000, 'value': b'52'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238819626000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238819626000, 'value': b'2023-03-19T15:13:37.556642'}]"
+b'd89d0b4c-b3ca-4cad-bc31-7d62bf7739c1',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239082345000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239082345000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239082345000, 'value': b'2023-03-19T15:18:01.770917'}]"
+b'da2b1af0-6d30-474b-942e-020213edcb50',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085536000, 'value': b'68'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085536000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085536000, 'value': b'2023-03-19T15:18:04.234873'}]"
+b'da6f741f-1395-475e-9404-fec833f8ef0b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239092547000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239092547000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239092547000, 'value': b'2023-03-19T15:18:11.312149'}]"
+b'dae41583-214f-4ab2-921f-756d17127413',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089946000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089946000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089946000, 'value': b'2023-03-19T15:18:07.579626'}]"
+b'dd47aee8-f819-46af-b541-7fbd67c1b986',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239081306000, 'value': b'61'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239081306000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239081306000, 'value': b'2023-03-19T15:18:00.987696'}]"
+b'e1023b97-27c2-4def-9791-6c69c9337e4c',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238819626000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238819626000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238819626000, 'value': b'2023-03-19T15:13:37.123603'}]"
+b'e18dadaa-0d07-4219-99bc-b98843c08717',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238809249000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238809249000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238809249000, 'value': b'2023-03-19T15:13:27.806518'}]"
+b'e26ef8d1-4783-4a34-94a5-13c4a3dd5de7',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091430000, 'value': b'57'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091430000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091430000, 'value': b'2023-03-19T15:18:09.664203'}]"
+b'e2e6f462-85bf-422a-aada-606ed5b3f3ec',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091953000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091953000, 'value': b'39'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091953000, 'value': b'2023-03-19T15:18:11.146152'}]"
+b'e48012dd-8c6e-4332-8b44-b0f2be4812e6',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239083859000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239083859000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239083859000, 'value': b'2023-03-19T15:18:02.304673'}]"
+b'e68b60d9-0103-4af8-8ee0-b01debd6a88d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091430000, 'value': b'51'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091430000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091430000, 'value': b'2023-03-19T15:18:10.177512'}]"
+b'e7314571-6dfa-413f-b68a-24a3f25944ba',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239100418000, 'value': b'51'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239100418000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239100418000, 'value': b'2023-03-19T15:18:10.755180'}]"
+b'e7aa3910-512f-407f-a0ae-80586782ba58',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237466307000, 'value': b'43'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237466307000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237466307000, 'value': b'2016-12-10T13:13:25'}]"
+b'e8676ccf-43d2-46f4-a771-584147f13e7b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237474033000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237474033000, 'value': b'28'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237474033000, 'value': b'1992-12-07T20:52:00'}]"
+b'eb001206-092b-40dc-af51-32e036908957',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239094328000, 'value': b'50'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239094328000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239094328000, 'value': b'2023-03-19T15:18:13.642932'}]"
+b'ec2b6d48-9a31-4b37-8544-3c2d4479598e',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239092547000, 'value': b'65'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239092547000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239092547000, 'value': b'2023-03-19T15:18:11.887978'}]"
+b'ec6d2314-7e36-4b56-a925-9e1ee275bf8d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237460336000, 'value': b'65'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237460336000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237460336000, 'value': b'2009-12-10T14:43:21'}]"
+b'ee25b1d8-0e21-4900-b96e-707673dd240b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091953000, 'value': b'38'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091953000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091953000, 'value': b'2023-03-19T15:18:11.022119'}]"
+b'eec106c8-0c6d-4a29-9435-ebb6d9164b80',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239089946000, 'value': b'50'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239089946000, 'value': b'27'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239089946000, 'value': b'2023-03-19T15:18:07.713405'}]"
+b'f1fe883d-4112-4ead-84c7-4b2e8cfd7895',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090907000, 'value': b'46'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090907000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090907000, 'value': b'2023-03-19T15:18:09.301589'}]"
+b'f2551251-0e41-4ec3-8581-dc360cc95e82',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091953000, 'value': b'66'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091953000, 'value': b'26'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091953000, 'value': b'2023-03-19T15:18:11.080670'}]"
+b'f2fbb403-262e-4dda-8a24-a5de9bb49d7d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239101910000, 'value': b'57'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239101910000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239101910000, 'value': b'2023-03-19T15:18:11.605185'}]"
+b'f4b60747-6965-45f1-95b1-09787bce6140',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239086653000, 'value': b'60'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239086653000, 'value': b'23'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239086653000, 'value': b'2023-03-19T15:18:05.123438'}]"
+b'f544a786-4564-4e05-8c60-b3de874cbadd',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239082345000, 'value': b'58'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239082345000, 'value': b'37'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239082345000, 'value': b'2023-03-19T15:18:01.876836'}]"
+b'f61216d2-8e85-458e-a0da-9a78db943849',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239091953000, 'value': b'44'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239091953000, 'value': b'30'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239091953000, 'value': b'2023-03-19T15:18:10.785553'}]"
+b'f65bee8f-9038-42b1-bc66-e1473e8cc067',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237471195000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237471195000, 'value': b'22'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237471195000, 'value': b'1983-01-21T07:56:48'}]"
+b'f789ab81-25c0-4db6-b9ac-0bd989567c09',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679237462016000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679237462016000, 'value': b'33'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679237462016000, 'value': b'2010-03-21T21:52:04'}]"
+b'f7dc55a3-7618-4301-ba58-fae25e5441ef',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093814000, 'value': b'61'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093814000, 'value': b'31'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093814000, 'value': b'2023-03-19T15:18:13.244183'}]"
+b'f8e3a6b2-7202-47b4-ab0e-681c3ffc063d',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238820121000, 'value': b'45'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238820121000, 'value': b'24'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238820121000, 'value': b'2023-03-19T15:13:37.911235'}]"
+b'f9493603-9e8c-4630-a60b-aa325633370a',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239099314000, 'value': b'40'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239099314000, 'value': b'32'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239099314000, 'value': b'2023-03-19T15:18:08.923761'}]"
+b'fa5fd6eb-eea2-48fb-9951-bb4083ffd2d2',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090487000, 'value': b'60'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090487000, 'value': b'35'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090487000, 'value': b'2023-03-19T15:18:08.451477'}]"
+b'fbc4d947-6f2b-4b7e-b39a-ce4b966ce286',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239087260000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239087260000, 'value': b'25'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239087260000, 'value': b'2023-03-19T15:18:05.427179'}]"
+b'fc429798-234f-4630-8cdf-944cbd06582b',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239085990000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239085990000, 'value': b'34'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239085990000, 'value': b'2023-03-19T15:18:04.452964'}]"
+b'fd54ffaa-cc56-44d4-aea8-c9110e5e62a9',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239093211000, 'value': b'36'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239093211000, 'value': b'20'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239093211000, 'value': b'2023-03-19T15:18:12.456407'}]"
+b'fda95251-610b-46ce-8a4a-a5be54a02e60',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239090487000, 'value': b'45'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239090487000, 'value': b'22'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239090487000, 'value': b'2023-03-19T15:18:08.789783'}]"
+b'fea646c7-edf4-4eee-b9db-bf01d034a997',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679238804265000, 'value': b'63'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679238804265000, 'value': b'22'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679238804265000, 'value': b'2023-03-19T15:13:23.329926'}]"
+b'ff98aaec-dd64-4a96-aea6-2af9ee611414',"[{'family': 'my-family', 'qualifier': b'humidity', 'timestamp': 1679239084951000, 'value': b'49'}
+ {'family': 'my-family', 'qualifier': b'temperature', 'timestamp': 1679239084951000, 'value': b'29'}
+ {'family': 'my-family', 'qualifier': b'timestamp', 'timestamp': 1679239084951000, 'value': b'2023-03-19T15:18:03.464174'}]"

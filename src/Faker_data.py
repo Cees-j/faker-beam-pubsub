@@ -3,6 +3,7 @@ from faker import Faker
 import json
 import os
 from dotenv import load_dotenv
+from datetime import datetime
 
 load_dotenv()
 
@@ -22,12 +23,12 @@ def push_faker_data(publisher=publisher):
 
     # Generate and publish simulated IoT data
     print('Publishing faker data')
-    for i in range(3):
+    for i in range(300):
         data = {
             'device_id': faker.uuid4(),
             'temperature': faker.random_int(min=20, max=40),
             'humidity': faker.random_int(min=30, max=70),
-            'timestamp': faker.date_time().isoformat()
+            'timestamp': datetime.now().isoformat()
         }
         print(data)
         message = json.dumps(data).encode('utf-8')
